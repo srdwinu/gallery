@@ -1,0 +1,2 @@
+run = 'npm --prefix ./gallery run dev'
+entrypoint = './gallery/pages/index.jsx'
